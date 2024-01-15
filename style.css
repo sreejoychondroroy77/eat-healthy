@@ -1,0 +1,88 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.section-1 {
+    display: flex;
+    background-image: url(images/shapes/Group.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 300px 300px;
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 1200px;
+    color: #C3C3C3;
+
+}
+
+.half-width img {
+    width: 60%;
+}
+
+.text-color {
+    color: #FB964B;
+
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 30px;
+    background-color: #FB964B;
+    color: white;
+
+}
+
+.section-2 {
+    width: 1100px;
+    display: flex;
+    background-image: url(images/shapes/Frame58.jpg);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    color: #C3C3C3;
+}
+
+.section-2 img {
+    width: 40%;
+}
+
+.contact-div2 {
+    margin-left: -30vw;
+
+}
+
+.contact-div2 h1 {
+    margin-left: 110px;
+}
+
+.contact-div2 p {
+    font-size: 12px;
+    text-align: justify;
+    margin-left: 110px;
+}
+
+.contact-me {
+    margin-left: 110px;
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: #FB964B;
+    border-radius: 20px;
+    color: white;
+}
+
+.recipies {
+    text-align: center;
+    width: 800px;
+    font-size: 10px;
+
+}
+
+.a {
+    margin-bottom: -1vw;
+}
+
+.b {
+    margin-bottom: -1vw;
+}
