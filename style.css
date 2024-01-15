@@ -12,7 +12,7 @@ body {
     margin-top: 50px;
     margin-left: 30px;
     width: 1200px;
-    color: #C3C3C3;
+    color: #5f4949;
 
 }
 
@@ -41,7 +41,7 @@ body {
     background-size: 70%;
     background-repeat: no-repeat;
     margin-left: 20px;
-    color: #C3C3C3;
+    color: #5f4949;
 }
 
 .section-2 img {
@@ -85,4 +85,80 @@ body {
 
 .b {
     margin-bottom: -1vw;
+}
+
+.section-3 {
+    width: 1000px;
+    display: flex;
+    margin: 5px 40px;
+}
+
+
+.section-3 img {
+    width: 80%;
+    margin: 10px 0px 0px 30px;
+}
+
+.sec3div1 {
+
+    width: 350px;
+    font-size: 10px;
+    margin-left: 20px;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.sec3div1 p {
+    padding: 0px 20px;
+}
+
+.sec3div1 h2 {
+    margin-left: 20px;
+}
+
+.section-4 {
+    display: flex;
+    text-align: center;
+    height: 100px;
+    width: 700px;
+    /* border: 1px solid black; */
+    margin-left: 70px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.sec4 {
+    margin: 0px 70px;
+
+}
+
+.sec4 p {
+    font-size: 10px;
+}
+
+.sec4 h1 {
+    margin-bottom: -1VW;
+}
+
+.eat {
+    color: #FB8B47;
+}
+
+.section-5 {
+    width: 700px;
+    border: 1px solid black;
+    margin-left: 69px;
+    background-color: black;
+}
+
+.section-5 h1 {
+    margin-left: 304px;
+    color: #5B5B5B;
+
+}
+
+.section-5 p {
+    margin-left: 195px;
+    font-size: 12px;
+    color: white;
 }
